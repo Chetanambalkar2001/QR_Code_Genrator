@@ -6,7 +6,7 @@ qr=qrcode.QRCode(
     border=5, #it is the white part of image -- border in all 4 sides with white color.
 )
 
-data=" Abhhishek Sanjay gawaliIt is vital to go through a national daily like The Hindu or The Indian Express and while reading these, pay special attention to news items and editorials that are either related to the Indian Constitution or the national as well as international political systems, in one way or the other."
+data="It is vital to go through a national daily like The Hindu or The Indian Express and while reading these, pay special attention to news items and editorials that are either related to the Indian Constitution or the national as well as international political systems, in one way or the other."
 #as i have the given oath of any link or channel like the same way you can give anything.
 #if you dont want to redirect & create for normal text that write text in the quotes.
 
